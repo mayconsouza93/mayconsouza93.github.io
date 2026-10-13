@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.borafluent.ingles.pages",
+      "sha256_cert_fingerprints": [
+        "DC:4A:CD:D9:71:FD:9F:9E:EE:A0:90:38:52:FE:5C:82:29:B4:1F:CD:E8:E4:41:25:EB:BB:8F:16:04:6F:BF:E1"
+      ]
+    }
+  }
+]
